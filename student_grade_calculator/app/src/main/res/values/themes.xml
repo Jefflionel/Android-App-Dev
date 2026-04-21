@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.ExcelCalculator" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Main green brand colors -->
+        <item name="colorPrimary">#2E7D32</item> <!-- Forest Green -->
+        <item name="colorPrimaryDark">#1B5E20</item> <!-- Darker Green for status bar -->
+        <item name="colorAccent">#4CAF50</item> <!-- Lighter Green -->
+
+        <item name="android:statusBarColor">#1B5E20</item>
+    </style>
+</resources>
